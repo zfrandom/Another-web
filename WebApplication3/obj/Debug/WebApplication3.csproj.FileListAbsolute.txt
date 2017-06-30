@@ -1,0 +1,10 @@
+D:\我的文档\Visual Studio 2008\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\我的文档\Visual Studio 2008\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\我的文档\Visual Studio 2008\Projects\WebApplication3\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\我的文档\Visual Studio 2008\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\WebApplication3\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb

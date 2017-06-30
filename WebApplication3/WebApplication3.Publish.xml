@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="C:\WebApplication3\">
+    <file relUrl="WebForm1.aspx" publishTime="06/29/2017 11:04:51" />
+    <file relUrl="Default.aspx" publishTime="06/29/2017 16:31:41" />
+    <file relUrl="bin/WebApplication3.pdb" publishTime="06/29/2017 17:28:26" />
+    <file relUrl="bin/WebApplication3.dll" publishTime="06/29/2017 17:28:26" />
+    <file relUrl="Web.config" publishTime="06/29/2017 16:15:45" />
+  </publishTarget>
+</publishData>
